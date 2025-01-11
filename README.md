@@ -54,17 +54,6 @@ git clone https://github.com/phungtr/junittest.git
 - JUnit 5
 - Maven (for project management)
 
-## How to Run the Application
-In your IDE, build the project using the build option.
-Or, use the terminal:
-![image](https://github.com/user-attachments/assets/1a478f43-76ce-4124-8c52-aee73d5c9bd1)
-
-Run the application:
-In your IDE, run the Calculator class.
-Or, use the terminal:
-
-![image](https://github.com/user-attachments/assets/4cf09524-a949-4539-a3b0-45784d236bff)
-
 ## Running Tests
 
 1. Clone the repository to your local machine.
