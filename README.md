@@ -63,4 +63,22 @@ git clone https://github.com/phungtr/junittest.git
 
 ## Project Structure
 
+![image](https://github.com/user-attachments/assets/7e07f1c8-9193-4af4-bbb2-e606f8019c3b)
 
+### `App.java`.
+
+![image](https://github.com/user-attachments/assets/d261839a-74d1-4c21-8bda-80238977f0eb)
+
+![image](https://github.com/user-attachments/assets/39690606-8c7f-46c7-8b3c-6dd60a243906)
+
+![image](https://github.com/user-attachments/assets/18b1c22d-15b1-4df6-b116-6ca6002c37f1)
+
+### `AppTest.java`
+
+![image](https://github.com/user-attachments/assets/ddf42a69-8e41-4214-aec5-bb83bc6b6c70)
+
+![image](https://github.com/user-attachments/assets/a76aa584-42fa-4886-8365-93541331e347)
+
+![image](https://github.com/user-attachments/assets/0670db55-b293-4893-b668-320d5ef15a95)
+
+liên kết chatgpt: https://chatgpt.com/c/677dd2ee-c2e0-8012-ab41-3d2e82958c53
