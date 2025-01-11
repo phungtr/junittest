@@ -1,0 +1,8 @@
+# Created at 2025-01-08T11:45:27.849
+No TestEngine ID matched the following include EngineFilters: [true].
+Please fix/remove the filter or add the engine.
+Registered TestEngines:
+- junit-jupiter (group ID: org.junit.jupiter, artifact ID: junit-jupiter-engine, version: 5.10.0, location: jar:file:/C:/Users/hienpg/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.0/junit-jupiter-engine-5.10.0.jar!/org/junit/jupiter/engine/JupiterTestEngine.class)
+Registered EngineFilters:
+- EngineFilter that includes engines with IDs [true]
+
