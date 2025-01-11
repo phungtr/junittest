@@ -56,9 +56,9 @@ git clone https://github.com/phungtr/junittest.git
 
 ## Running Tests
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the tests using Maven by executing the following command:
+1. Sao chép kho lưu trữ vào máy cục bộ của bạn.
+2. Điều hướng đến thư mục dự án.
+3. Chạy kiểm thử bằng Maven bằng cách thực hiện lệnh sau:
 ![image](https://github.com/user-attachments/assets/9bd73429-cbca-42e5-80ad-0382b48d1ca8)
 
 ## Project Structure
